@@ -1,0 +1,34 @@
+# 🍕 Pizza Sales Dashboard
+
+This project visualizes sales data from a fictional pizza store to uncover key business insights using interactive dashboards.
+
+---
+
+## 📌 Project Summary
+
+- **Data Source:** Sample dataset by Swapnjeet ([Google Drive Link](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z))
+- **Tools Used:**
+  - **SQL** – Data mining and query-based segmentation
+  - **MS Excel** – Preprocessing and cleanup
+  - **Power BI** – Interactive dashboard development
+
+---
+
+## 🧠 Key Insights Delivered
+
+- 📅 **Sales Trends** by day, month, and quarter
+- 🍕 **Top 5 Best-Selling Pizzas**
+- 💸 **Revenue** by pizza size and category
+- ⏰ **Peak Order Times**
+- 🎛️ **Interactive filters** for size, category, and date range
+
+---
+
+## 📁 File Structure
+
+```plaintext
+Pizza_Sales_Dashboard/
+├── Pizza_Sales_Dashboard.pbix        # Power BI dashboard file
+├── SQL_Cleaning_Scripts.sql          # SQL queries used for data prep
+├── Excel_Data_Mining.xlsx            # Excel workbook with cleaning steps
+├── README.md                         # Project description
